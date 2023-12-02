@@ -1,3 +1,3 @@
 Well hello there.
 
-I'm Studying Robotics-engineering at Heriot-Watt University.
+I'm studying robotics at Heriot-Watt University.
